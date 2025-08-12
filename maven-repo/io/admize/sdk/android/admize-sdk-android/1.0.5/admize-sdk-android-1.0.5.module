@@ -27,10 +27,10 @@
           "name": "admize-sdk-android-1.0.5.aar",
           "url": "admize-sdk-android-1.0.5.aar",
           "size": 1145950,
-          "sha512": "259eeeac55241d7672376d53f001f10ff5bb90a437f31fbba880f723a2a9f1989a4aab27e55e3dda8bae93a07d20542b742acfd933067f04b0e3e42ac32203db",
-          "sha256": "1fbc487f91c8f2cc8e5aa2048c71343538f2382426f23c0aac82bb0300332f87",
-          "sha1": "2605483ba7512d43e3e2f7cd2d55a2df075815b4",
-          "md5": "cd0cae9d343d27330d3bb7660fc178ea"
+          "sha512": "8b76f5fb8bf43adc4f4c45300082706fe5e5c4321c4526743a4a7517e0c38e821416789db62bc304e6f1fb8048b7ac175d8c1ba5b8a34abbe0b031595d2d1f13",
+          "sha256": "218d11b8dfd07ab1d1276c5fedd1aade7c196e5c253ff0a33f84d785a920b8aa",
+          "sha1": "d6c86eb033c576cc8a2b37c6ebb2bddce3fae64b",
+          "md5": "451aa2ee748e340783d83db37066d299"
         }
       ]
     },
@@ -154,10 +154,10 @@
           "name": "admize-sdk-android-1.0.5.aar",
           "url": "admize-sdk-android-1.0.5.aar",
           "size": 1145950,
-          "sha512": "259eeeac55241d7672376d53f001f10ff5bb90a437f31fbba880f723a2a9f1989a4aab27e55e3dda8bae93a07d20542b742acfd933067f04b0e3e42ac32203db",
-          "sha256": "1fbc487f91c8f2cc8e5aa2048c71343538f2382426f23c0aac82bb0300332f87",
-          "sha1": "2605483ba7512d43e3e2f7cd2d55a2df075815b4",
-          "md5": "cd0cae9d343d27330d3bb7660fc178ea"
+          "sha512": "8b76f5fb8bf43adc4f4c45300082706fe5e5c4321c4526743a4a7517e0c38e821416789db62bc304e6f1fb8048b7ac175d8c1ba5b8a34abbe0b031595d2d1f13",
+          "sha256": "218d11b8dfd07ab1d1276c5fedd1aade7c196e5c253ff0a33f84d785a920b8aa",
+          "sha1": "d6c86eb033c576cc8a2b37c6ebb2bddce3fae64b",
+          "md5": "451aa2ee748e340783d83db37066d299"
         }
       ]
     }
