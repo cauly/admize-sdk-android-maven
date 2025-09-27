@@ -26,11 +26,11 @@
         {
           "name": "admize-sdk-android-uat-1.0.7.aar",
           "url": "admize-sdk-android-uat-1.0.7.aar",
-          "size": 1177563,
-          "sha512": "e349badb193bdad981bf7829bf01bf3ad263baba237113bfad6640398c36751ea0aa206ba34a0cc8d17469285b278ec9ff676512c5c3789261ff1afedd1cf84c",
-          "sha256": "b72cd621b00f69ded98dbf59ea2ce308381326db103dff046279981a96012dbd",
-          "sha1": "440f80bed31a4fa4733b62a924141b63c21d6890",
-          "md5": "28929c354f2813266355dd51a67b3937"
+          "size": 1177554,
+          "sha512": "9d400ccf08ca5ee5bce707736465886a61f9a10c0dd79ee68ee48b1a16a164e8879a81bf6bfb7d83ea0f2bdbffe88d088a5c1c206a688728e63756ac6ab19b45",
+          "sha256": "08f48bfc700abfb3cc5c1404daf30b5bbfc984cf486edac1d813ddf0ba5661c7",
+          "sha1": "34cbb282cdb8089cc089e9ef9e4971cc1f0ecb1f",
+          "md5": "6587dc3a68519c5c4ea547cc25c51dd5"
         }
       ]
     },
@@ -153,11 +153,11 @@
         {
           "name": "admize-sdk-android-uat-1.0.7.aar",
           "url": "admize-sdk-android-uat-1.0.7.aar",
-          "size": 1177563,
-          "sha512": "e349badb193bdad981bf7829bf01bf3ad263baba237113bfad6640398c36751ea0aa206ba34a0cc8d17469285b278ec9ff676512c5c3789261ff1afedd1cf84c",
-          "sha256": "b72cd621b00f69ded98dbf59ea2ce308381326db103dff046279981a96012dbd",
-          "sha1": "440f80bed31a4fa4733b62a924141b63c21d6890",
-          "md5": "28929c354f2813266355dd51a67b3937"
+          "size": 1177554,
+          "sha512": "9d400ccf08ca5ee5bce707736465886a61f9a10c0dd79ee68ee48b1a16a164e8879a81bf6bfb7d83ea0f2bdbffe88d088a5c1c206a688728e63756ac6ab19b45",
+          "sha256": "08f48bfc700abfb3cc5c1404daf30b5bbfc984cf486edac1d813ddf0ba5661c7",
+          "sha1": "34cbb282cdb8089cc089e9ef9e4971cc1f0ecb1f",
+          "md5": "6587dc3a68519c5c4ea547cc25c51dd5"
         }
       ]
     },
@@ -174,10 +174,10 @@
           "name": "admize-sdk-android-uat-1.0.7-sources.jar",
           "url": "admize-sdk-android-uat-1.0.7-sources.jar",
           "size": 103578,
-          "sha512": "66cf0bbf79419ace68b3cbdcc7c92f9b4e3b2babf85421c6d7585646cb5d5b7ce310af47378af2a9ca4fbf938d36afd72093307487ccb100d7e53bbf912d5f92",
-          "sha256": "9442aff34816006aca9f6b0143a6884e203f18a9ec548a761383d3af9af3c648",
-          "sha1": "818628ec975bd1e6be9c7b91248ee3ee99c699a4",
-          "md5": "39149105437a209ea5cfceda7bf26f1e"
+          "sha512": "d3edd7f24d826385e441ae695428c4e693065faad725af7082cc405e92ca306a222b4764e3858a2fde9db816d2413c491e94c1977a9aefc206cfa5d1e3a9f958",
+          "sha256": "78f04cda0d92c0b5c802591248b5cc8f12c5fe1cfe69b341b5e07cbe75091bd3",
+          "sha1": "21baca175fe8cd62401a75234f694e74827c28b9",
+          "md5": "90680d4594cceb1fce1d9d87b78b40e6"
         }
       ]
     }
